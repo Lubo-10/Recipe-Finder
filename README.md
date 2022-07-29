@@ -1,6 +1,6 @@
 <h1 align="center">Recipe Finder<h1>
 
-<h2 align="center">Forget the annoying fluff, all you need is the good stuff.</h2>
+<h2 align="center">Find any recipe you want.</h2>
 <br>
 
 <div align="center"><a name="menu"></a>
@@ -23,10 +23,6 @@
     <span>|</span>
     <a href="#mock-up">
       Mock Up
-    </a>
-    <span>|</span>
-    <a href="#contributors">
-      Contributors
     </a>
   </h4>
 </div>
