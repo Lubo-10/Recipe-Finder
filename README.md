@@ -1,5 +1,4 @@
 <h1 align="center">Recipe Finder<h1>
-<img src="https://i.ibb.co/2tN7k5y/recip-EZ3-2.png" alt="Recipe Finder Logo" border="0" align="center" />
 
 <h2 align="center">Forget the annoying fluff, all you need is the good stuff.</h2>
 <br>
